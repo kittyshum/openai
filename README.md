@@ -8,3 +8,6 @@ This repository includes a few experimental apps leveraging the openai API.   Yo
 
 ### Image Generator
 - demo: https://www.youtube.com/watch?v=4eCt4Rmy2xE
+
+### Image Variations
+- demo: https://www.youtube.com/watch?v=lxVjfG2NVRY
